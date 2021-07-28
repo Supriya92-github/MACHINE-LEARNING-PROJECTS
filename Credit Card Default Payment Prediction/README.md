@@ -4,6 +4,6 @@
 - - Logistic Regression
 - - Decision Tree Classifier
 - - Random Forest Classifier
-Hyper Parameter Tuning Technique Used
+- Hyper Parameter Tuning Technique Used
 
 ![name-of-you-image](https://miro.medium.com/max/660/1*ncw88R85hT-4r2wHyaFZ-w.jpeg)
